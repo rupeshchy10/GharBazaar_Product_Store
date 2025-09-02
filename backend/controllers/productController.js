@@ -1,3 +1,3 @@
-export const getAllProducts = (req, res) => {};
+export const getAllProducts = async(req, res) => {};
 
-export const createProduct = (req, res) => {};
+export const createProduct = async(req, res) => {};
